@@ -1,0 +1,23 @@
+.code {
+    color: #660000;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-style: normal;
+}
+
+.pre {
+    color: #660000;
+    display: block;
+    margin: 1em 0;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.backtracking {
+    margin: 0 0 0 0;
+}
+
+.lastpre {
+    font-weight: bold;
+    display: block;
+    margin: 0 0;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
